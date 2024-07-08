@@ -14,3 +14,4 @@ if st.button("แปล"):
         st.text(response.text)
     except:
         st.text("no response")
+        
